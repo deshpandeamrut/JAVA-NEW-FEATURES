@@ -2,7 +2,7 @@ package com.palyground.java14;
 
 /**
  * From java 14 the null pointer excpetion messages are more helpful with clear error msg on what was null
- * @author XKS9
+ * @author Amrut
  *
  */
 public class HelpfulNullPointerException {

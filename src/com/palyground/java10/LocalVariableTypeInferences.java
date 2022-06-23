@@ -9,7 +9,7 @@ import java.util.List;
  * var cannot be assigned with null
  * var is not a keyword
  * 
- * @author XKS9
+ * @author Amrut
  *
  */
 public class LocalVariableTypeInferences {

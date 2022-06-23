@@ -2,7 +2,7 @@ package com.palyground.java15;
 
 /**
  * Usage - Start a string with """ the terminate with """
- * @author XKS9
+ * @author Amrut
  *
  */
 public class TextBlocks {
